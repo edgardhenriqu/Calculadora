@@ -19,7 +19,7 @@ Uma calculadora simples e funcional desenvolvida em React.js, com design moderno
 🖼️ Prévia do Projeto
 
 
-(adicione aqui um print da sua aplicação, você já tem um no seu PC, é só salvar no repositório como preview.png)
+![alt text](image.png)
 
 🚀 Tecnologias Utilizadas
 
